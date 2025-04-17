@@ -54,7 +54,8 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ![WhatsApp Image 2025-04-12 at 8 55 52 AM](https://github.com/user-attachments/assets/7d3ac626-bf5d-4cd9-bef6-577a954059d5)
 
-![WhatsApp Image 2025-04-12 at 8 55 40 AM](https://github.com/user-attachments/assets/29090f70-9fab-4c51-a73a-fcd1dae1d3ac)
+![WhatsApp Image 2025-04-12 at 8 55 27 AM](https://github.com/user-attachments/assets/ab8629e6-1f28-42ed-bbb1-f5a625350cb7)
+
 
 
 ## Results
